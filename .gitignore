@@ -1,0 +1,152 @@
+# Helper directories
+.backup/
+.notes/
+.scratch/
+.tmp/
+
+# Windows
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
+Thumbs.db
+Thumbs.db:encryptable
+[Dd]esktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+
+# Mac OS
+.AppleDouble
+.DS_Store
+.LSOverride
+._*
+Icon^M
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+.apdisk
+.com.apple.timemachine.donotpresent
+Network Trash Folder/
+Temporary Items/
+
+# Linux
+*.lock
+.Trash-*
+.directory
+.fuse_hidden*
+.nfs*
+
+# Miscellaneous
+*~
+~$*
+~*
+
+# Visual Studio
+!?*.[Cc]ache/
+*.VC.db
+*.[Cc]ache
+*.appx
+*.appxbundle
+*.appxupload
+*.cache
+*.cachefile
+*.ilk
+*.log
+*.meta
+*.nuget.props
+*.nuget.targets
+*.nupkg
+*.opendb
+*.opensdf
+*.pch
+*.pdb
+*.ruser
+*.sln.docstates
+*.sln.iml
+*.snupkg
+*.suo
+*.tlog
+*.tmp
+*.tmp_proj
+*.user
+*.userosscache
+*.userprefs
+.localhistory/
+.vs/
+.vshistory/
+Generated\ Files/
+mono_crash.*
+project.lock.json
+
+# VSCode
+.vscode/*
+!.vscode/*.code-snippets
+!.vscode/c_cpp_properties.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+*.vsix
+.history/
+
+# JetBrains
+.idea/*
+!.idea/runConfigurations/
+*.properties
+.idea_modules/
+out/
+
+# Project directories
+[Bb]in/
+[Bb]uild/
+[Ee]xternal/
+[Ii]ntermediate/
+[Ll]ib/
+[Oo]bj/
+
+# Archives/Binaries
+*.a
+*.app
+*.bz
+*.dll
+*.elf
+*.exe
+*.exe~
+*.hex
+*.lib
+*.nexe
+*.nvuser
+*.o
+*.obj
+*.out
+*.so
+*.tar
+*.xz
+*.zip
+
+# Databases
+*.db
+*.sqlite
+
+# Images
+*.ai
+#*.bmp
+#*.gif
+#*.ico
+#*.jpe?g
+*.pdf
+#*.png
+*.psd
+#*.tga
+#*.web[mp]
+*.apng
+*.exif
+*.exr
+*.raw
+*.tiff

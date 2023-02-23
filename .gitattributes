@@ -1,0 +1,44 @@
+*				text	eol=lf
+
+# Text Files
+*.[Ss]			text	eol=lf
+*.as			text	eol=lf
+*.asm			text	eol=lf
+*.c				text	eol=lf
+*.cpp			text	eol=lf
+*.css			text	eol=lf
+*.h				text	eol=lf
+*.hh			text	eol=lf
+*.hpp			text	eol=lf
+*.htm			text	eol=lf
+*.html			text	eol=lf
+*.js			text	eol=lf
+*.md			text	eol=lf
+*.php			text	eol=lf
+*.sql			text	eol=lf
+*.ts			text	eol=lf
+*.txt			text	eol=lf
+*.webmanifest	text	eol=lf
+*.xml			text	eol=lf
+*.yml			text	eol=lf
+.gitattributes	text	eol=lf
+.gitignore		text	eol=lf
+.htaccess		text	eol=lf
+
+# Binary Files
+*.ai			binary
+*.bmp			binary
+*.db			binary
+*.gif			binary
+*.gltf			binary
+*.gz			binary
+*.ico			binary
+*.jpe?g			binary
+*.pdf			binary
+*.png			binary
+*.psd			binary
+*.tar			binary
+*.tga			binary
+*.web[mp]		binary
+*.xy			binary
+*.zip			binary
