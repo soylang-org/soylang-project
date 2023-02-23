@@ -1,0 +1,33 @@
+[submodule "modules/lang/soy"]
+	path = modules/lang/soy
+	url = https://github.com/soylang-org/soy.git
+[submodule "modules/builder"]
+	path = modules/builder
+	url = https://github.com/soylang-org/soybuilder.git
+[submodule "modules/soycc"]
+	path = modules/soycc
+	url = https://github.com/soylang-org/soycc.git
+[submodule "modules/soyar"]
+	path = modules/soyar
+	url = https://github.com/soylang-org/soyar.git
+[submodule "modules/soyas"]
+	path = modules/soyas
+	url = https://github.com/soylang-org/soyas.git
+[submodule "modules/soyda"]
+	path = modules/soyda
+	url = https://github.com/soylang-org/soyda.git
+[submodule "modules/soyld"]
+	path = modules/soyld
+	url = https://github.com/soylang-org/soyld.git
+[submodule "modules/soylint"]
+	path = modules/soylint
+	url = https://github.com/soylang-org/soylint.git
+[submodule "modules/soyzr"]
+	path = modules/soyzr
+	url = https://github.com/soylang-org/soyzr.git
+[submodule "modules/soyman"]
+	path = modules/soyman
+	url = https://github.com/soylang-org/soyman.git
+[submodule "modules/soydbg"]
+	path = modules/soydbg
+	url = https://github.com/soylang-org/soydbg.git
