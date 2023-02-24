@@ -31,3 +31,24 @@
 [submodule "modules/soydbg"]
 	path = modules/soydbg
 	url = https://github.com/soylang-org/soydbg.git
+[submodule "modules/target/arm"]
+	path = modules/target/arm
+	url = https://github.com/soylang-org/target-arm.git
+[submodule "modules/target/arm64"]
+	path = modules/target/arm64
+	url = https://github.com/soylang-org/target-arm64.git
+[submodule "modules/target/x86"]
+	path = modules/target/x86
+	url = https://github.com/soylang-org/target-x86.git
+[submodule "modules/target/x86_64"]
+	path = modules/target/x86_64
+	url = https://github.com/soylang-org/target-x86-64.git
+[submodule "modules/target/sh4"]
+	path = modules/target/sh4
+	url = https://github.com/soylang-org/target-sh4.git
+[submodule "modules/target/vmu"]
+	path = modules/target/vmu
+	url = https://github.com/soylang-org/target-vmu.git
+[submodule "modules/target/avr"]
+	path = modules/target/avr
+	url = https://github.com/soylang-org/target-avr.git
