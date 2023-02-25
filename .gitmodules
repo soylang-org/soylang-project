@@ -52,3 +52,21 @@
 [submodule "modules/target/avr"]
 	path = modules/target/avr
 	url = https://github.com/soylang-org/target-avr.git
+[submodule "modules/platform/android"]
+	path = modules/platform/android
+	url = https://github.com/soylang-org/platform-android.git
+[submodule "modules/platform/ios"]
+	path = modules/platform/ios
+	url = https://github.com/soylang-org/platform-ios.git
+[submodule "modules/platform/linux"]
+	path = modules/platform/linux
+	url = https://github.com/soylang-org/platform-linux.git
+[submodule "modules/platform/macos"]
+	path = modules/platform/macos
+	url = https://github.com/soylang-org/platform-macos.git
+[submodule "modules/platform/windows"]
+	path = modules/platform/windows
+	url = https://github.com/soylang-org/platform-windows.git
+[submodule "modules/lang/eve"]
+	path = modules/lang/eve
+	url = https://github.com/soylang-org/lang-eve.git
